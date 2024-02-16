@@ -1,5 +1,5 @@
 {
-    "name": "getsimpletools/functionparser",
+    "name": "simpletools/functionparser",
     "type": "library",
     "description": "Function parser for PHP functions, methods, and closures",
     "keywords": ["function", "closure", "parser", "tokenizer"],
